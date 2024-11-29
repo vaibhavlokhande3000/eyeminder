@@ -1,0 +1,9 @@
+Flask
+Flask-SocketIO
+opencv-python
+numpy
+pillow
+dlib
+numpy
+opencv-python
+setuptools
